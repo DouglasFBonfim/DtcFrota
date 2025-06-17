@@ -1,0 +1,2 @@
+Conexao | 17/01/2025 08:10:13 | Erro ao conectar
+Conexao | 06/02/2025 17:45:01 | Erro ao buscar JSON no banco de dados: relação "status" não existe

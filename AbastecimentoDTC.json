@@ -1,0 +1,22 @@
+{
+  "vs_registro": "2",
+  "id_registro": "17",
+  "ns": "65535",
+  "bico": "1",
+  "data": "2025-02-03",
+  "hora": "12:04",
+  "valor_abastecimento": "4.060",
+  "volume_abastecido": "1.300",
+  "preco_unitario": "3.120",
+  "casa_decimal": "2",
+  "encerrante_inicial": "1.75",
+  "encerrante_final": "1.88",
+  "id_funcionario": "8705E054",
+  "id_veiculo": "120",
+  "tag": "4A9495CD500104E0",
+  "id_motorista": "CF9B95CD500104E0",
+  "km": "4910500",
+  "requisicao": "1212",
+  "id_empresa": "1",
+  "status": "00000000"
+}

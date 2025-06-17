@@ -1,0 +1,53 @@
+<html><head><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+html, body { height: 100%; margin: 0; padding: 0; background: #fff; font-family: Arial, sans-serif; }
+.card { width: 350px; padding: 20px; border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); background: #2a2a3d; color: #fff; margin-bottom: 20px;margin-left: 20px; text-align: center; }
+.card h2 { font-size: 24px; color: #4cafef; }
+.container { display: flex; flex-wrap: wrap; justify-content: space-evenly; padding: 20px; }
+.card-container { display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px; align-items: center; }
+.card { margin-right: 20px; }
+.arc-container { display: flex; justify-content: center; width: 200px; height: 200px; }
+svg { width: 200px; height: 200px; }
+circle { stroke-width: 10; fill-width: 10; }
+</style></head><body>
+<div class="container">
+<div class="card-container">
+<div class="card">
+<h2>Tanque: 01</h2>
+<p><strong>Data:</strong> 2025-02-03</p>
+<p><strong>Hora:</strong> 08:02:02</p>
+<p><strong>Volume Combustível:</strong> 12042 litros</p>
+<p><strong>Temperatura:</strong> 24 °C</p>
+<p><strong>Altura Produto:</strong> 195 cm</p>
+<p><strong>Volume Água:</strong> 0 litros</p>
+</div>
+<div class="arc-container">
+<svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+<circle cx="50" cy="50" r="45" stroke="#d1d1e0" stroke-width="10" fill="none" />
+<circle cx="50" cy="50" r="45" stroke="orange" stroke-width="10" fill="none" stroke-dasharray="113,1948, 282" transform="rotate(-90 50 50)" />
+<circle cx="50" cy="50" r="40" stroke="blue" stroke-width="10" fill="none" stroke-dasharray="0, 282" transform="rotate(-90 50 50)" />
+<text x="50%" y="50%" text-anchor="middle" stroke="#080808" stroke-width="1px" dy=".3em" font-size="16" font-family="Arial">40,1%</text>
+</svg>
+</div>
+</div>
+<div class="card-container">
+<div class="card">
+<h2>Tanque: 02</h2>
+<p><strong>Data:</strong> 2025-02-03</p>
+<p><strong>Hora:</strong> 08:02:03</p>
+<p><strong>Volume Combustível:</strong> 12986 litros</p>
+<p><strong>Temperatura:</strong> 24 °C</p>
+<p><strong>Altura Produto:</strong> 210 cm</p>
+<p><strong>Volume Água:</strong> 0 litros</p>
+</div>
+<div class="arc-container">
+<svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+<circle cx="50" cy="50" r="45" stroke="#d1d1e0" stroke-width="10" fill="none" />
+<circle cx="50" cy="50" r="45" stroke="orange" stroke-width="10" fill="none" stroke-dasharray="122,0684, 282" transform="rotate(-90 50 50)" />
+<circle cx="50" cy="50" r="40" stroke="blue" stroke-width="10" fill="none" stroke-dasharray="0, 282" transform="rotate(-90 50 50)" />
+<text x="50%" y="50%" text-anchor="middle" stroke="#080808" stroke-width="1px" dy=".3em" font-size="16" font-family="Arial">43,3%</text>
+</svg>
+</div>
+</div>
+</div>
+</body></html>

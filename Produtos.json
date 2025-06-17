@@ -1,0 +1,47 @@
+﻿[
+  {
+    "id_produto": 1,
+    "nome": "DIESEL S10",
+    "tipo": "Combustível",
+    "codigo_barras": "11",
+    "tipo_unidade": "L",
+    "preco_unitario": "1.00",
+    "ativo": 1
+  },
+  {
+    "id_produto": 10,
+    "nome": "Arla 32",
+    "tipo": "Combustível",
+    "codigo_barras": "10",
+    "tipo_unidade": "L",
+    "preco_unitario": "1.00",
+    "ativo": 1
+  },
+  {
+    "id_produto": 11,
+    "nome": "GASOLINA COMUM",
+    "tipo": "Combustível",
+    "codigo_barras": "2",
+    "tipo_unidade": "L",
+    "preco_unitario": "100.00",
+    "ativo": 1
+  },
+  {
+    "id_produto": 12,
+    "nome": "DIESEL COMUM",
+    "tipo": "Combustível",
+    "codigo_barras": "3",
+    "tipo_unidade": "L",
+    "preco_unitario": "1.00",
+    "ativo": 1
+  },
+  {
+    "id_produto": 13,
+    "nome": "GASOLINA ADITIVADA",
+    "tipo": "Combustível",
+    "codigo_barras": "6",
+    "tipo_unidade": "L",
+    "preco_unitario": "1.00",
+    "ativo": 1
+  }
+]

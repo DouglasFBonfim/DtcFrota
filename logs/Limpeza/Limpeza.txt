@@ -1,0 +1,84 @@
+TruncateTabelas | 03/02/2025 13:33:47 | Tabela truncada com sucesso: veiculosteste
+TruncateTabelas | 03/02/2025 13:33:47 | Tabela truncada com sucesso: veiculos
+TruncateTabelas | 03/02/2025 13:33:49 | Tabela truncada com sucesso: cliente
+TruncateTabelas | 03/02/2025 13:33:51 | Tabela truncada com sucesso: clienteteste
+TruncateTabelas | 03/02/2025 13:33:52 | Tabela truncada com sucesso: motorista
+TruncateTabelas | 03/02/2025 13:33:54 | Tabela truncada com sucesso: motoristateste
+TruncateTabelas | 03/02/2025 13:33:55 | Tabela truncada com sucesso: infofrentista
+TruncateTabelas | 03/02/2025 13:33:57 | Tabela truncada com sucesso: infomotoristas
+TruncateTabelas | 03/02/2025 13:33:59 | Tabela truncada com sucesso: infoveiculos
+ClearTagFid | 03/02/2025 13:34:05 | Procedimento de limpeza dos cadastros no concentrador executado com sucesso.
+Limpar_tabelas | 03/02/2025 13:34:10 | Cadastrando os dados apos a limpeza executado com sucesso.
+Limpar_tabelas | 03/02/2025 13:34:11 | Procedimento de cadastros no concentrador executado com sucesso.
+TruncateTabelas | 03/02/2025 13:35:13 | Tabela truncada com sucesso: veiculosteste
+TruncateTabelas | 03/02/2025 13:35:14 | Tabela truncada com sucesso: veiculos
+TruncateTabelas | 03/02/2025 13:35:15 | Tabela truncada com sucesso: cliente
+TruncateTabelas | 03/02/2025 13:35:17 | Tabela truncada com sucesso: clienteteste
+TruncateTabelas | 03/02/2025 13:35:19 | Tabela truncada com sucesso: motorista
+TruncateTabelas | 03/02/2025 13:35:21 | Tabela truncada com sucesso: motoristateste
+TruncateTabelas | 03/02/2025 13:35:22 | Tabela truncada com sucesso: infofrentista
+TruncateTabelas | 03/02/2025 13:35:23 | Tabela truncada com sucesso: infomotoristas
+TruncateTabelas | 03/02/2025 13:35:26 | Tabela truncada com sucesso: infoveiculos
+ClearTagFid | 03/02/2025 13:35:32 | Procedimento de limpeza dos cadastros no concentrador executado com sucesso.
+Limpar_tabelas | 03/02/2025 13:35:37 | Cadastrando os dados apos a limpeza executado com sucesso.
+Limpar_tabelas | 03/02/2025 13:35:38 | Procedimento de cadastros no concentrador executado com sucesso.
+TruncateTabelas | 04/02/2025 15:02:46 | Tabela truncada com sucesso: veiculosteste
+TruncateTabelas | 04/02/2025 15:02:46 | Tabela truncada com sucesso: veiculos
+TruncateTabelas | 04/02/2025 15:02:50 | Tabela truncada com sucesso: cliente
+TruncateTabelas | 04/02/2025 15:02:51 | Tabela truncada com sucesso: clienteteste
+TruncateTabelas | 04/02/2025 15:02:51 | Tabela truncada com sucesso: motorista
+TruncateTabelas | 04/02/2025 15:02:55 | Tabela truncada com sucesso: motoristateste
+TruncateTabelas | 04/02/2025 15:02:56 | Tabela truncada com sucesso: infofrentista
+TruncateTabelas | 04/02/2025 15:03:00 | Tabela truncada com sucesso: infomotoristas
+TruncateTabelas | 04/02/2025 15:03:00 | Tabela truncada com sucesso: infoveiculos
+ClearTagFid | 04/02/2025 15:03:06 | Procedimento de limpeza dos cadastros no concentrador executado com sucesso.
+Limpar_tabelas | 04/02/2025 15:03:11 | Cadastrando os dados apos a limpeza executado com sucesso.
+Limpar_tabelas | 04/02/2025 15:03:12 | Procedimento de cadastros no concentrador executado com sucesso.
+TruncateTabelas | 06/02/2025 17:27:04 | Tabela truncada com sucesso: veiculosteste
+TruncateTabelas | 06/02/2025 17:27:11 | Tabela truncada com sucesso: veiculos
+TruncateTabelas | 06/02/2025 17:27:11 | Tabela truncada com sucesso: cliente
+TruncateTabelas | 06/02/2025 17:27:12 | Tabela truncada com sucesso: clienteteste
+TruncateTabelas | 06/02/2025 17:27:13 | Tabela truncada com sucesso: motorista
+TruncateTabelas | 06/02/2025 17:27:13 | Tabela truncada com sucesso: motoristateste
+TruncateTabelas | 06/02/2025 17:27:14 | Tabela truncada com sucesso: infofrentista
+TruncateTabelas | 06/02/2025 17:27:15 | Tabela truncada com sucesso: infomotoristas
+TruncateTabelas | 06/02/2025 17:27:15 | Tabela truncada com sucesso: infoveiculos
+ClearTagFid | 06/02/2025 17:27:16 | Procedimento de limpeza dos cadastros no concentrador executado com sucesso.
+Limpar_tabelas | 06/02/2025 17:27:21 | Cadastrando os dados apos a limpeza executado com sucesso.
+Limpar_tabelas | 06/02/2025 17:27:22 | Procedimento de cadastros no concentrador executado com sucesso.
+TruncateTabelas | 07/02/2025 10:08:20 | Tabela truncada com sucesso: veiculosteste
+TruncateTabelas | 07/02/2025 10:08:21 | Tabela truncada com sucesso: veiculos
+TruncateTabelas | 07/02/2025 10:08:22 | Tabela truncada com sucesso: cliente
+TruncateTabelas | 07/02/2025 10:08:26 | Tabela truncada com sucesso: clienteteste
+TruncateTabelas | 07/02/2025 10:08:26 | Tabela truncada com sucesso: motorista
+TruncateTabelas | 07/02/2025 10:08:27 | Tabela truncada com sucesso: motoristateste
+TruncateTabelas | 07/02/2025 10:08:31 | Tabela truncada com sucesso: infofrentista
+TruncateTabelas | 07/02/2025 10:08:32 | Tabela truncada com sucesso: infomotoristas
+TruncateTabelas | 07/02/2025 10:08:36 | Tabela truncada com sucesso: infoveiculos
+ClearTagFid | 07/02/2025 10:08:42 | Procedimento de limpeza dos cadastros no concentrador executado com sucesso.
+Limpar_tabelas | 07/02/2025 10:08:47 | Cadastrando os dados apos a limpeza executado com sucesso.
+Limpar_tabelas | 07/02/2025 10:08:47 | Procedimento de cadastros no concentrador executado com sucesso.
+TruncateTabelas | 07/02/2025 10:21:42 | Tabela truncada com sucesso: veiculosteste
+TruncateTabelas | 07/02/2025 10:21:43 | Tabela truncada com sucesso: veiculos
+TruncateTabelas | 07/02/2025 10:21:46 | Tabela truncada com sucesso: cliente
+TruncateTabelas | 07/02/2025 10:21:47 | Tabela truncada com sucesso: clienteteste
+TruncateTabelas | 07/02/2025 10:21:47 | Tabela truncada com sucesso: motorista
+TruncateTabelas | 07/02/2025 10:21:51 | Tabela truncada com sucesso: motoristateste
+TruncateTabelas | 07/02/2025 10:21:52 | Tabela truncada com sucesso: infofrentista
+TruncateTabelas | 07/02/2025 10:21:52 | Tabela truncada com sucesso: infomotoristas
+TruncateTabelas | 07/02/2025 10:21:56 | Tabela truncada com sucesso: infoveiculos
+ClearTagFid | 07/02/2025 10:22:02 | Procedimento de limpeza dos cadastros no concentrador executado com sucesso.
+Limpar_tabelas | 07/02/2025 10:22:07 | Cadastrando os dados apos a limpeza executado com sucesso.
+Limpar_tabelas | 07/02/2025 10:22:07 | Procedimento de cadastros no concentrador executado com sucesso.
+TruncateTabelas | 07/02/2025 14:40:14 | Tabela truncada com sucesso: veiculosteste
+TruncateTabelas | 07/02/2025 14:40:17 | Tabela truncada com sucesso: veiculos
+TruncateTabelas | 07/02/2025 14:40:18 | Tabela truncada com sucesso: cliente
+TruncateTabelas | 07/02/2025 14:40:19 | Tabela truncada com sucesso: clienteteste
+TruncateTabelas | 07/02/2025 14:40:22 | Tabela truncada com sucesso: motorista
+TruncateTabelas | 07/02/2025 14:40:23 | Tabela truncada com sucesso: motoristateste
+TruncateTabelas | 07/02/2025 14:40:24 | Tabela truncada com sucesso: infofrentista
+TruncateTabelas | 07/02/2025 14:40:27 | Tabela truncada com sucesso: infomotoristas
+TruncateTabelas | 07/02/2025 14:40:28 | Tabela truncada com sucesso: infoveiculos
+ClearTagFid | 07/02/2025 14:40:34 | Procedimento de limpeza dos cadastros no concentrador executado com sucesso.
+Limpar_tabelas | 07/02/2025 14:40:39 | Cadastrando os dados apos a limpeza executado com sucesso.
+Limpar_tabelas | 07/02/2025 14:40:40 | Procedimento de cadastros no concentrador executado com sucesso.

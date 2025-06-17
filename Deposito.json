@@ -1,0 +1,29 @@
+﻿[
+  {
+    "id_deposito": 1,
+    "nome": "TANQUE 01 - RODOREIS",
+    "cod_produto": "1",
+    "capacidade": 15000,
+    "id_empresa": 1,
+    "ativo": 1,
+    "id_sonda": 1
+  },
+  {
+    "id_deposito": 2,
+    "nome": "TANQUE 02 - RODOVICO",
+    "cod_produto": "1",
+    "capacidade": 15000,
+    "id_empresa": 2,
+    "ativo": 1,
+    "id_sonda": 2
+  },
+  {
+    "id_deposito": 3,
+    "nome": "TANQUE 03 - ARLA",
+    "cod_produto": "10",
+    "capacidade": 3000,
+    "id_empresa": 2,
+    "ativo": 1,
+    "id_sonda": 3
+  }
+]

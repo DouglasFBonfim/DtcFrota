@@ -1,0 +1,1040 @@
+Abastecimentos | 28/01/2025 14:54:10 | Erro ao enviar dados para API: HTTP/1.0 401 Unauthorized
+Abastecimentos | 28/01/2025 14:55:27 | Data(Horus): 28/01/2025 15:01:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 32,4 Totais Litros: 0,648 Encerrante Inicial: 6,25 Encerrante Final: 6,9
+Abastecimentos | 28/01/2025 14:55:31 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:55:41 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:55:51 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:56:01 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:56:11 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:56:21 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:56:31 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:56:41 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:56:51 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:57:01 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:57:11 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:57:21 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:57:31 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 14:57:41 | Erro ao enviar dados para API: HTTP/1.0 400 Bad Request
+Abastecimentos | 28/01/2025 15:03:13 | Data(Horus): 28/01/2025 15:09:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 33,1 Totais Litros: 0,662 Encerrante Inicial: 6,9 Encerrante Final: 7,56
+Abastecimentos | 29/01/2025 09:23:21 | Data(Horus): 29/01/2025 09:29:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 17 Totais Litros: 0,34 Encerrante Inicial: 7,56 Encerrante Final: 7,9
+Abastecimentos | 29/01/2025 09:30:40 | Data(Horus): 29/01/2025 09:36:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 13,2 Totais Litros: 0,264 Encerrante Inicial: 7,9 Encerrante Final: 8,16
+Abastecimentos | 29/01/2025 09:31:44 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:46 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:46 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:48 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:48 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:49 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:51 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:52 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:53 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:54 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:55 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:56 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:57 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:58 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:31:59 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:00 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:01 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:02 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:03 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:04 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:05 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:06 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:07 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:08 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:09 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:10 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:13 | Erro ao salvar as configurações: coluna "tagfrenti1sta" não existe
+Abastecimentos | 29/01/2025 09:32:30 | Data(Horus): 29/01/2025 09:37:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 74,2 Totais Litros: 1,484 Encerrante Inicial: 8,16 Encerrante Final: 9,65
+Abastecimentos | 29/01/2025 09:34:25 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:26 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:27 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:28 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:29 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:30 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:31 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:32 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:33 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:34 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:35 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:36 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:37 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:38 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:39 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:40 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:41 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:42 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:43 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:44 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:45 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:46 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:47 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:48 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:49 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:50 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:51 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:52 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:53 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:54 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:55 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:56 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:57 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:58 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:34:59 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:00 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:01 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:02 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:03 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:04 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:05 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:06 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:07 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:08 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:09 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:10 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:11 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:12 | Erro ao salvar as configurações: coluna "tagfrenti0sta" não existe
+Abastecimentos | 29/01/2025 09:35:38 | Data(Horus): 29/01/2025 09:40:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 182,7 Totais Litros: 3,654 Encerrante Inicial: 9,65 Encerrante Final: 3,3
+Abastecimentos | 29/01/2025 09:46:13 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:14 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:15 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:16 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:17 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:18 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:19 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:20 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:21 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:22 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:23 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:24 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:25 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:26 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:27 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:28 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:29 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:30 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:31 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:32 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:33 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:34 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:35 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:36 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:37 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:38 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:39 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:40 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:41 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:42 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:43 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:44 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:45 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:46 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:47 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:48 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:49 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:50 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:51 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:52 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:53 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:54 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:55 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:56 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:57 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:58 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:46:59 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:00 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:01 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:02 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:03 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:04 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:05 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:06 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:07 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:08 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:09 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:10 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:11 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:12 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:13 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:14 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:15 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:16 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:17 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:18 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:19 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:20 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:21 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:22 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:23 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:24 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:25 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:26 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:27 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:28 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:29 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:30 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:31 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:32 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:33 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:34 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:35 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:36 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:37 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:38 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:39 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:40 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:41 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:42 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:43 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:44 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:45 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:46 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:47 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:48 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:49 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:50 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:51 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:52 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:53 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:54 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:55 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:56 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:57 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:58 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:47:59 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:00 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:01 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:02 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:03 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:04 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:05 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:06 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:07 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:08 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:09 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:10 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:11 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:12 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:13 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:14 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:15 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:16 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:17 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:18 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:19 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:20 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:21 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:22 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:23 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:24 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:25 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:26 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:27 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:28 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:29 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:30 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:31 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:32 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:33 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:34 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:35 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:36 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:37 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:38 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:39 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:40 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:41 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:42 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:43 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:44 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:45 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:46 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:47 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:48 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:49 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:50 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:51 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:52 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:53 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:54 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:55 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:56 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:57 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:58 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:48:59 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:00 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:01 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:02 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:03 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:04 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:05 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:06 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:07 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:08 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:09 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:10 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:11 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:12 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:13 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:14 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:15 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:16 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:17 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:18 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:19 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:20 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:21 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:22 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:23 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:24 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:25 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:26 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:27 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:28 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:29 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:30 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:31 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:32 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:33 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:34 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:35 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:36 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:37 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:38 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:39 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:40 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:41 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:42 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:43 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:44 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:45 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:46 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:47 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:48 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:49 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:50 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:51 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:52 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:53 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:54 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:55 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:56 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:57 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:58 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:49:59 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:00 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:01 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:02 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:03 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:04 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:05 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:06 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:07 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:08 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:09 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:10 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:11 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:12 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:13 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:14 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:15 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:16 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:17 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:18 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:19 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:20 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:21 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:22 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:23 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:24 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:25 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:26 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:27 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:28 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:29 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:30 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:31 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:32 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:33 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:34 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:35 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:36 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:37 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:38 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:39 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:40 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:41 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:42 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:43 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:44 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:45 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:46 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:47 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:48 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:49 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:50 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:51 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:52 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:53 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:54 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:55 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:56 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:57 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:58 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:50:59 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:00 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:01 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:02 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:03 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:04 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:05 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:06 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:07 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:08 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:09 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:10 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:11 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:12 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:13 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:14 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:15 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:16 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:17 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:18 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:19 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:20 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:21 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:22 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:23 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:24 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:25 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:26 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:27 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:28 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:29 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:30 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:31 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:32 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:33 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:34 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:35 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:36 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:37 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:38 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:39 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:40 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:41 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:42 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:43 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:44 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:45 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:46 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:47 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:48 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:49 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:50 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:51 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:52 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:53 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:54 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:55 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:56 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:57 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:58 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:51:59 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:00 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:01 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:02 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:03 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:04 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:05 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:06 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:07 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:08 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:09 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:10 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:11 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:12 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:13 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:14 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:15 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:16 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:17 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:18 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:19 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:20 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:21 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:22 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:23 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:24 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:25 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:26 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:27 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:28 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:29 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:30 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:31 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:32 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:33 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:34 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:35 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:36 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:37 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:38 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:39 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:40 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:41 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:42 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:43 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:44 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:45 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:46 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:47 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:48 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:49 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:50 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:51 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:52 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:53 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:54 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:55 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:56 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:57 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:58 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:52:59 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:00 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:01 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:02 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:03 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:04 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:05 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:06 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:07 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:08 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:09 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:10 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:11 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:12 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:13 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:14 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:15 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:16 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:17 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:18 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:19 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:20 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:21 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:22 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:23 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:24 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:25 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:27 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:27 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:28 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:29 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:30 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:31 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:32 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:34 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:35 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:36 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:37 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:38 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:39 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:40 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:41 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:42 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:43 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:44 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:45 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:46 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:47 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:48 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:49 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:50 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:51 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:52 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:53 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:54 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:55 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:56 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:57 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:58 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:53:59 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:00 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:01 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:02 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:03 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:04 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:05 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:06 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:07 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:08 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:09 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:10 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:11 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:12 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:13 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:14 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:15 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:16 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:17 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:18 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:19 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:20 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:21 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:22 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:23 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:24 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:25 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:26 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:27 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:28 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:29 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:30 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:31 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:32 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:33 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:34 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:35 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:36 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:37 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:38 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:39 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:40 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:41 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:42 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:43 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:44 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:45 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:46 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:47 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:48 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:49 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:50 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:51 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:52 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:53 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:54 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:55 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:56 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:57 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:58 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:54:59 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:00 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:01 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:02 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:03 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:04 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:05 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:06 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:07 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:08 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:09 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:10 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:11 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:12 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:13 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:14 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:15 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:16 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:17 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:18 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:19 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:20 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:21 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:22 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:23 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:24 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:25 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:26 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:27 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:28 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:29 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:30 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:31 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:32 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:33 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:34 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:35 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:36 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:37 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:38 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:39 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:40 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:41 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:42 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:43 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:44 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:45 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:47 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:47 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:48 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:50 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:51 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:52 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:53 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:54 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:55 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:56 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:57 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:58 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:55:59 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:00 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:01 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:02 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:03 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:04 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:05 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:06 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:07 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:08 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:09 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:10 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:11 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:12 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:13 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:14 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:15 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:16 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:17 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:18 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:19 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:20 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:21 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:22 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:23 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:24 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:25 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:26 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:27 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:28 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:29 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:30 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:31 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:32 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:33 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:34 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:35 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:36 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:37 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:38 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:39 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:40 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:41 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:42 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:43 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:44 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:45 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:46 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:47 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:48 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:49 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:50 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:51 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:52 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:53 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:54 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:55 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:56 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:57 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:58 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:56:59 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:00 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:01 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:02 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:03 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:04 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:05 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:06 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:07 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:08 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:09 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:10 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:11 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:12 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:13 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:14 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:15 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:16 | Erro ao salvar as configurações: coluna "tag0frentista" não existe
+Abastecimentos | 29/01/2025 09:57:36 | Data(Horus): 29/01/2025 09:52:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 71,5 Totais Litros: 1,43 Encerrante Inicial: 3,3 Encerrante Final: 4,73
+Abastecimentos | 29/01/2025 11:11:44 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:45 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:46 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:47 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:48 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:49 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:50 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:51 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:52 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:53 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:54 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:55 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:56 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:57 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:58 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:11:59 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:00 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:01 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:02 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:03 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:04 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:05 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:06 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:07 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:08 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:09 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:10 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:11 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:12 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:13 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:14 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:15 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:16 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:17 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:18 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:19 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:20 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:21 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:22 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:23 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:24 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:25 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:26 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:27 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:28 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:29 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:30 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:31 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:32 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:33 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:34 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:35 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:36 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:37 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:38 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:39 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:40 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:41 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:42 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:43 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:44 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:45 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:46 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:47 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:48 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:49 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:50 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:51 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:52 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:53 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:54 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:55 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:56 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:58 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:58 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:12:59 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:01 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:02 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:02 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:03 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:05 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:05 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:06 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:07 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:08 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:09 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:11 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:11 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:13 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:13 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:14 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:16 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:17 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:18 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:18 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:19 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:21 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:21 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:22 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:24 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:24 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:25 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:26 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:28 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:28 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:30 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:31 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:32 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:33 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:33 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:35 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:36 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:36 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:38 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:38 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:40 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:41 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:41 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:43 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:44 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:45 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:46 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:47 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:48 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:49 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:50 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:51 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:52 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:53 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:54 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:55 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:56 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:57 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:58 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:13:59 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:00 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:01 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:02 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:03 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:04 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:05 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:06 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:07 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:08 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:09 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:10 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:11 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:12 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:13 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:14 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:15 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:16 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:17 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:18 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:19 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:20 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:21 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:22 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:23 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:24 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:25 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:26 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:27 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:28 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:29 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:30 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:31 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:34 | Erro ao salvar as configurações: elemento incorreto após valor numérico em ou próximo a "0TagFrentista"
+Abastecimentos | 29/01/2025 11:14:53 | Data(Horus): 29/01/2025 11:17:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 109 Totais Litros: 2,18 Encerrante Inicial: 4,73 Encerrante Final: 6,91
+Abastecimentos | 29/01/2025 11:15:03 | Data(Horus): 29/01/2025 11:20:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 23,4 Totais Litros: 0,468 Encerrante Inicial: 6,91 Encerrante Final: 7,38
+Abastecimentos | 03/02/2025 08:01:19 | Data(Horus): 31/01/2025 14:54:00 Bico: 1 Frentista:  Veículo:  Motorista:  KMAtual:  Preço: 5 Preço Total: 0 Totais Litros: 0 Encerrante Inicial: 7,38 Encerrante Final: 6,17
+Abastecimentos | 03/02/2025 08:01:20 | Erro ao salvar as configurações: '' is not a valid floating point value
+Abastecimentos | 03/02/2025 08:33:57 | Data(Horus): 03/02/2025 08:40:00 Bico: 1 Frentista: 8705E054 Veículo: 4A9495CD500104E0 Motorista: CF9B95CD500104E0 KMAtual: 491015 Preço: 5 Preço Total: 10,4 Totais Litros: 0,208 Encerrante Inicial: 6,17 Encerrante Final: 6,37
+Abastecimentos | 03/02/2025 08:40:24 | Data(Horus): 03/02/2025 08:46:00 Bico: 1 Frentista: 8705E054 Veículo: 4A9495CD500104E0 Motorista: CF9B95CD500104E0 KMAtual: 491050 Preço: 5 Preço Total: 39,9 Totais Litros: 0,798 Encerrante Inicial: 6,37 Encerrante Final: 7,17
+Abastecimentos | 03/02/2025 08:45:16 | Data(Horus): 03/02/2025 08:51:00 Bico: 1 Frentista: 8705E054 Veículo: 4A9495CD500104E0 Motorista: CF9B95CD500104E0 KMAtual: 491050 Preço: 5 Preço Total: 103,6 Totais Litros: 2,072 Encerrante Inicial: 7,17 Encerrante Final: 9,24
+Abastecimentos | 03/02/2025 08:48:50 | Data(Horus): 03/02/2025 08:55:00 Bico: 1 Frentista: 8705E054 Veículo: 4A9495CD500104E0 Motorista: CF9B95CD500104E0 KMAtual: 491050 Preço: 5 Preço Total: 31,6 Totais Litros: 0,632 Encerrante Inicial: 9,24 Encerrante Final: 9,88
+Abastecimentos | 03/02/2025 09:47:07 | Data(Horus): 03/02/2025 09:53:00 Bico: 1 Frentista: 8705E054 Veículo: 4A9495CD500104E0 Motorista: CF9B95CD500104E0 KMAtual: 491050 Preço: 5 Preço Total: 88,6 Totais Litros: 1,772 Encerrante Inicial: 9,88 Encerrante Final: 1,65
+Abastecimentos | 03/02/2025 11:53:03 | Data(Horus): 03/02/2025 11:48:00 Bico: 1 Frentista:  Veículo:  Motorista:  KMAtual:  Preço: 3,12 Preço Total: 0 Totais Litros: 0 Encerrante Inicial: 1234687,68 Encerrante Final: 1,65
+Abastecimentos | 03/02/2025 11:53:03 | Erro ao salvar as configurações: '' is not a valid floating point value
+Abastecimentos | 03/02/2025 11:53:04 | Data(Horus): 03/02/2025 11:56:00 Bico: 1 Frentista:  Veículo:  Motorista:  KMAtual:  Preço: 3,12 Preço Total: 3,03 Totais Litros: 0,097 Encerrante Inicial: 1,65 Encerrante Final: 1,75
+Abastecimentos | 03/02/2025 11:53:04 | Erro ao salvar as configurações: '' is not a valid floating point value
+Abastecimentos | 03/02/2025 11:56:29 | Data(Horus): 03/02/2025 12:04:00 Bico: 1 Frentista: 8705E054 Veículo: 4A9495CD500104E0 Motorista: CF9B95CD500104E0 KMAtual: 491050 Preço: 3,12 Preço Total: 4,06 Totais Litros: 0,13 Encerrante Inicial: 1,75 Encerrante Final: 1,88
+Abastecimentos | 03/02/2025 13:38:54 | Data(Horus): 03/02/2025 13:46:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: FFFFFFFFFFFFFFFF KMAtual: 0 Preço: 3,12 Preço Total: 36,07 Totais Litros: 1,156 Encerrante Inicial: 1,88 Encerrante Final: 3,03
+Abastecimentos | 03/02/2025 13:39:25 | Data(Horus): 03/02/2025 13:47:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 3,12 Preço Total: 3,68 Totais Litros: 0,118 Encerrante Inicial: 3,03 Encerrante Final: 3,15
+Abastecimentos | 04/02/2025 09:47:11 | Data(Horus): 03/02/2025 13:52:00 Bico:  Frentista: 0000000000000000 Veículo: 0000000000000000 KMAtual: 0 Preço: 3,12 Preço Total: 3,68 Totais Litros: 0,118 Encerrante Inicial: 1,65 Encerrante Final: 3,15
+Abastecimentos | 06/02/2025 17:26:49 | Data(Horus): 11/07/2024 11:56:00 Bico: 1 Frentista:  Veículo:  Motorista:  KMAtual:  Preço: 0 Preço Total: 0 Totais Litros: 2,1 Encerrante Inicial: 0,33 Encerrante Final: 2,43
+Abastecimentos | 06/02/2025 17:26:50 | Erro ao salvar as configurações: '' is not a valid floating point value
+Abastecimentos | 06/02/2025 17:53:18 | Data(Horus): 07/11/2024 15:40:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 1,8 Totais Litros: 0,09 Encerrante Inicial: 5,03 Encerrante Final: 5,12
+Abastecimentos | 06/02/2025 17:53:29 | Data(Horus): 07/11/2024 15:44:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 2,64 Totais Litros: 0,132 Encerrante Inicial: 5,12 Encerrante Final: 5,25
+Abastecimentos | 06/02/2025 17:53:38 | Data(Horus): 07/11/2024 16:40:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 2,76 Totais Litros: 0,138 Encerrante Inicial: 5,25 Encerrante Final: 5,39
+Abastecimentos | 06/02/2025 17:53:48 | Data(Horus): 07/11/2024 17:01:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 3,32 Totais Litros: 0,166 Encerrante Inicial: 5,39 Encerrante Final: 5,56
+Abastecimentos | 06/02/2025 17:53:58 | Data(Horus): 07/11/2024 17:24:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 8,2 Totais Litros: 0,41 Encerrante Inicial: 5,56 Encerrante Final: 5,97
+Abastecimentos | 06/02/2025 17:54:08 | Data(Horus): 07/11/2024 17:48:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 20,79 Totais Litros: 1,04 Encerrante Inicial: 5,97 Encerrante Final: 7,01
+Abastecimentos | 06/02/2025 17:54:18 | Data(Horus): 02/12/2024 17:51:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 2,24 Totais Litros: 0,112 Encerrante Inicial: 7,01 Encerrante Final: 7,12
+Abastecimentos | 06/02/2025 17:54:28 | Data(Horus): 02/12/2024 17:52:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 1,24 Totais Litros: 0,062 Encerrante Inicial: 7,12 Encerrante Final: 7,18
+Abastecimentos | 06/02/2025 17:54:38 | Data(Horus): 03/12/2024 09:02:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 75,16 Totais Litros: 3,76 Encerrante Inicial: 7,18 Encerrante Final: 0,94
+Abastecimentos | 06/02/2025 17:54:48 | Data(Horus): 04/12/2024 08:49:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 4,28 Totais Litros: 0,214 Encerrante Inicial: 0,94 Encerrante Final: 1,15
+Abastecimentos | 06/02/2025 17:54:58 | Data(Horus): 04/12/2024 18:15:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 3,04 Totais Litros: 0,152 Encerrante Inicial: 1,15 Encerrante Final: 1,31
+Abastecimentos | 06/02/2025 17:55:08 | Data(Horus): 05/12/2024 08:34:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 5,48 Totais Litros: 0,274 Encerrante Inicial: 1,31 Encerrante Final: 1,58
+Abastecimentos | 06/02/2025 17:55:18 | Data(Horus): 05/12/2024 09:29:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 43,14 Totais Litros: 2,158 Encerrante Inicial: 1,58 Encerrante Final: 3,74
+Abastecimentos | 06/02/2025 17:55:28 | Data(Horus): 06/12/2024 16:09:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 43,94 Totais Litros: 2,198 Encerrante Inicial: 3,74 Encerrante Final: 5,94
+Abastecimentos | 06/02/2025 17:55:38 | Data(Horus): 06/12/2024 16:16:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 18,11 Totais Litros: 0,906 Encerrante Inicial: 5,94 Encerrante Final: 6,84
+Abastecimentos | 06/02/2025 17:55:48 | Data(Horus): 09/12/2024 08:05:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 4,84 Totais Litros: 0,242 Encerrante Inicial: 6,84 Encerrante Final: 7,08
+Abastecimentos | 06/02/2025 17:55:58 | Data(Horus): 09/12/2024 10:03:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 434,1 Totais Litros: 21,716 Encerrante Inicial: 7,08 Encerrante Final: 8,8
+Abastecimentos | 06/02/2025 17:56:08 | Data(Horus): 09/12/2024 11:03:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 1,999 Preço Total: 76,12 Totais Litros: 3,808 Encerrante Inicial: 8,8 Encerrante Final: 2,61
+Abastecimentos | 06/02/2025 17:56:18 | Data(Horus): 09/12/2024 16:30:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 2,02 Totais Litros: 0,101 Encerrante Inicial: 2,61 Encerrante Final: 2,71
+Abastecimentos | 06/02/2025 17:56:28 | Data(Horus): 09/12/2024 16:41:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 3,84 Totais Litros: 0,192 Encerrante Inicial: 2,71 Encerrante Final: 2,9
+Abastecimentos | 06/02/2025 17:56:38 | Data(Horus): 09/12/2024 16:42:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 5,02 Totais Litros: 0,251 Encerrante Inicial: 2,9 Encerrante Final: 3,15
+Abastecimentos | 06/02/2025 17:56:48 | Data(Horus): 09/12/2024 17:16:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 2,02 Totais Litros: 0,101 Encerrante Inicial: 3,15 Encerrante Final: 3,25
+Abastecimentos | 06/02/2025 17:56:58 | Data(Horus): 09/12/2024 17:17:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 4,32 Totais Litros: 0,216 Encerrante Inicial: 3,25 Encerrante Final: 3,47
+Abastecimentos | 06/02/2025 17:57:08 | Data(Horus): 09/12/2024 17:30:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 5,48 Totais Litros: 0,274 Encerrante Inicial: 3,47 Encerrante Final: 3,74
+Abastecimentos | 06/02/2025 17:57:18 | Data(Horus): 09/12/2024 17:53:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 7,52 Totais Litros: 0,376 Encerrante Inicial: 3,74 Encerrante Final: 4,12
+Abastecimentos | 06/02/2025 17:57:28 | Data(Horus): 09/12/2024 17:55:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 1,72 Totais Litros: 0,086 Encerrante Inicial: 4,12 Encerrante Final: 4,2
+Abastecimentos | 06/02/2025 17:57:38 | Data(Horus): 10/12/2024 08:16:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 10,91 Totais Litros: 0,546 Encerrante Inicial: 4,2 Encerrante Final: 4,75
+Abastecimentos | 06/02/2025 17:57:48 | Data(Horus): 10/12/2024 10:08:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 10,59 Totais Litros: 0,53 Encerrante Inicial: 4,75 Encerrante Final: 5,28
+Abastecimentos | 06/02/2025 17:57:58 | Data(Horus): 10/12/2024 10:17:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 5,02 Totais Litros: 0,251 Encerrante Inicial: 5,28 Encerrante Final: 5,53
+Abastecimentos | 06/02/2025 17:58:08 | Data(Horus): 10/12/2024 10:19:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 0,4 Totais Litros: 0,02 Encerrante Inicial: 5,53 Encerrante Final: 5,55
+Abastecimentos | 06/02/2025 17:58:18 | Data(Horus): 10/12/2024 10:21:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 3,92 Totais Litros: 0,196 Encerrante Inicial: 5,55 Encerrante Final: 5,75
+Abastecimentos | 06/02/2025 17:58:28 | Data(Horus): 10/12/2024 10:53:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 40 Totais Litros: 2,001 Encerrante Inicial: 5,75 Encerrante Final: 7,75
+Abastecimentos | 06/02/2025 17:58:38 | Data(Horus): 10/12/2024 11:05:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 2,02 Totais Litros: 0,101 Encerrante Inicial: 7,75 Encerrante Final: 7,85
+Abastecimentos | 06/02/2025 17:58:48 | Data(Horus): 10/12/2024 11:19:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 272,94 Totais Litros: 13,654 Encerrante Inicial: 7,85 Encerrante Final: 1,5
+Abastecimentos | 06/02/2025 17:58:58 | Data(Horus): 10/12/2024 12:56:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 2,88 Totais Litros: 0,144 Encerrante Inicial: 1,5 Encerrante Final: 1,65
+Abastecimentos | 06/02/2025 17:59:08 | Data(Horus): 10/12/2024 16:51:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 2,02 Totais Litros: 0,101 Encerrante Inicial: 1,65 Encerrante Final: 1,75
+Abastecimentos | 06/02/2025 17:59:18 | Data(Horus): 10/12/2024 16:52:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 68,17 Totais Litros: 3,41 Encerrante Inicial: 1,75 Encerrante Final: 5,16
+Abastecimentos | 06/02/2025 17:59:28 | Data(Horus): 10/12/2024 17:05:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 4,36 Totais Litros: 0,218 Encerrante Inicial: 5,16 Encerrante Final: 5,38
+Abastecimentos | 06/02/2025 17:59:38 | Data(Horus): 10/12/2024 17:07:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 6,92 Totais Litros: 0,346 Encerrante Inicial: 5,38 Encerrante Final: 5,72
+Abastecimentos | 06/02/2025 17:59:48 | Data(Horus): 11/12/2024 08:06:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 5,48 Totais Litros: 0,274 Encerrante Inicial: 5,72 Encerrante Final: 6
+Abastecimentos | 06/02/2025 18:00:01 | Data(Horus): 11/12/2024 08:06:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 2,44 Totais Litros: 0,122 Encerrante Inicial: 6 Encerrante Final: 6,12
+Abastecimentos | 06/02/2025 18:00:11 | Data(Horus): 11/12/2024 09:20:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 1,72 Totais Litros: 0,086 Encerrante Inicial: 6,12 Encerrante Final: 6,2
+Abastecimentos | 06/02/2025 18:00:21 | Data(Horus): 11/12/2024 09:21:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 19,75 Totais Litros: 0,988 Encerrante Inicial: 6,2 Encerrante Final: 7,19
+Abastecimentos | 06/02/2025 18:00:31 | Data(Horus): 11/12/2024 09:23:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 40,54 Totais Litros: 2,028 Encerrante Inicial: 7,19 Encerrante Final: 9,22
+Abastecimentos | 06/02/2025 18:00:41 | Data(Horus): 11/12/2024 15:34:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 1,64 Totais Litros: 0,082 Encerrante Inicial: 9,22 Encerrante Final: 9,3
+Abastecimentos | 06/02/2025 18:00:51 | Data(Horus): 11/12/2024 15:36:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 7,32 Totais Litros: 0,366 Encerrante Inicial: 9,3 Encerrante Final: 9,67
+Abastecimentos | 06/02/2025 18:01:01 | Data(Horus): 11/12/2024 16:52:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,999 Preço Total: 28,03 Totais Litros: 1,402 Encerrante Inicial: 9,67 Encerrante Final: 1,07
+Abastecimentos | 06/02/2025 18:01:11 | Data(Horus): 16/12/2024 08:56:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 6,9 Preço Total: 2127,82 Totais Litros: 30,838 Encerrante Inicial: 1,07 Encerrante Final: 1,91
+Abastecimentos | 06/02/2025 18:01:21 | Data(Horus): 16/12/2024 11:14:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 2 Preço Total: 18 Totais Litros: 0,9 Encerrante Inicial: 1,91 Encerrante Final: 2,81
+Abastecimentos | 06/02/2025 18:01:31 | Data(Horus): 16/12/2024 11:17:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1 Preço Total: 2,82 Totais Litros: 0,282 Encerrante Inicial: 2,81 Encerrante Final: 3,09
+Abastecimentos | 06/02/2025 18:01:41 | Data(Horus): 17/12/2024 08:10:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,206 Preço Total: 14,06 Totais Litros: 1,166 Encerrante Inicial: 3,09 Encerrante Final: 4,26
+Abastecimentos | 06/02/2025 18:01:51 | Data(Horus): 17/12/2024 08:11:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,206 Preço Total: 3,86 Totais Litros: 0,32 Encerrante Inicial: 4,26 Encerrante Final: 4,58
+Abastecimentos | 06/02/2025 18:02:01 | Data(Horus): 18/12/2024 09:54:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 1,206 Preço Total: 3,06 Totais Litros: 0,254 Encerrante Inicial: 4,58 Encerrante Final: 4,83
+Abastecimentos | 06/02/2025 18:02:12 | Data(Horus): 23/12/2024 14:53:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 92,2 Totais Litros: 1,844 Encerrante Inicial: 4,83 Encerrante Final: 6,67
+Abastecimentos | 06/02/2025 18:02:21 | Data(Horus): 23/12/2024 15:31:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 53 Totais Litros: 1,06 Encerrante Inicial: 6,67 Encerrante Final: 7,73
+Abastecimentos | 06/02/2025 18:02:31 | Data(Horus): 23/12/2024 15:34:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 44,1 Totais Litros: 0,882 Encerrante Inicial: 7,73 Encerrante Final: 8,62
+Abastecimentos | 06/02/2025 18:02:41 | Data(Horus): 23/12/2024 15:46:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 563,6 Totais Litros: 11,272 Encerrante Inicial: 8,62 Encerrante Final: 9,89
+Abastecimentos | 06/02/2025 18:02:51 | Data(Horus): 24/12/2024 08:49:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 8,1 Totais Litros: 0,162 Encerrante Inicial: 9,89 Encerrante Final: 0,05
+Abastecimentos | 06/02/2025 18:03:01 | Data(Horus): 27/12/2024 14:39:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 192,7 Totais Litros: 3,854 Encerrante Inicial: 0,05 Encerrante Final: 3,9
+Abastecimentos | 06/02/2025 18:03:14 | Data(Horus): 31/12/2024 13:43:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 16 Totais Litros: 0,32 Encerrante Inicial: 3,9 Encerrante Final: 4,22
+Abastecimentos | 06/02/2025 18:03:21 | Data(Horus): 31/12/2024 13:59:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 13,2 Totais Litros: 0,264 Encerrante Inicial: 4,22 Encerrante Final: 4,49
+Abastecimentos | 06/02/2025 18:03:31 | Data(Horus): 02/01/2025 10:43:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 7,3 Totais Litros: 0,146 Encerrante Inicial: 4,49 Encerrante Final: 4,63
+Abastecimentos | 06/02/2025 18:03:41 | Data(Horus): 06/01/2025 10:08:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 2,05 Totais Litros: 0,041 Encerrante Inicial: 4,63 Encerrante Final: 4,68
+Abastecimentos | 06/02/2025 18:03:51 | Data(Horus): 06/01/2025 10:17:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 11,2 Totais Litros: 0,224 Encerrante Inicial: 4,68 Encerrante Final: 4,9
+Abastecimentos | 06/02/2025 18:04:01 | Data(Horus): 06/01/2025 10:17:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 6,1 Totais Litros: 0,122 Encerrante Inicial: 4,9 Encerrante Final: 5,02
+Abastecimentos | 06/02/2025 18:04:11 | Data(Horus): 06/01/2025 10:18:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 6 Totais Litros: 0,12 Encerrante Inicial: 5,02 Encerrante Final: 5,14
+Abastecimentos | 06/02/2025 18:04:21 | Data(Horus): 06/01/2025 10:18:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 35,3 Totais Litros: 0,706 Encerrante Inicial: 5,14 Encerrante Final: 5,85
+Abastecimentos | 06/02/2025 18:04:31 | Data(Horus): 06/01/2025 10:20:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 19,3 Totais Litros: 0,386 Encerrante Inicial: 5,85 Encerrante Final: 6,23
+Abastecimentos | 06/02/2025 18:04:41 | Data(Horus): 06/01/2025 10:21:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 51,1 Totais Litros: 1,022 Encerrante Inicial: 6,23 Encerrante Final: 7,26
+Abastecimentos | 06/02/2025 18:04:51 | Data(Horus): 06/01/2025 10:32:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 2100,1 Totais Litros: 42,002 Encerrante Inicial: 7,26 Encerrante Final: 9,26
+Abastecimentos | 06/02/2025 18:05:01 | Data(Horus): 06/01/2025 10:38:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 132,1 Totais Litros: 2,642 Encerrante Inicial: 9,26 Encerrante Final: 1,9
+Abastecimentos | 06/02/2025 18:05:11 | Data(Horus): 06/01/2025 10:40:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 66,8 Totais Litros: 1,336 Encerrante Inicial: 1,9 Encerrante Final: 3,24
+Abastecimentos | 06/02/2025 18:05:21 | Data(Horus): 06/01/2025 10:41:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 7,6 Totais Litros: 0,152 Encerrante Inicial: 3,24 Encerrante Final: 3,39
+Abastecimentos | 06/02/2025 18:05:31 | Data(Horus): 06/01/2025 10:57:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 18,1 Totais Litros: 0,362 Encerrante Inicial: 3,39 Encerrante Final: 3,75
+Abastecimentos | 06/02/2025 18:05:41 | Data(Horus): 06/01/2025 11:07:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 15,6 Totais Litros: 0,312 Encerrante Inicial: 3,75 Encerrante Final: 4,06
+Abastecimentos | 06/02/2025 18:05:51 | Data(Horus): 08/01/2025 16:46:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 16 Totais Litros: 0,32 Encerrante Inicial: 4,06 Encerrante Final: 4,38
+Abastecimentos | 06/02/2025 18:06:01 | Data(Horus): 14/01/2025 11:29:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 36,7 Totais Litros: 0,734 Encerrante Inicial: 4,38 Encerrante Final: 5,12
+Abastecimentos | 06/02/2025 18:06:11 | Data(Horus): 14/01/2025 11:58:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 556,6 Totais Litros: 11,132 Encerrante Inicial: 5,12 Encerrante Final: 6,25
+Abastecimentos | 06/02/2025 18:06:21 | Data(Horus): 28/01/2025 15:01:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 32,4 Totais Litros: 0,648 Encerrante Inicial: 6,25 Encerrante Final: 6,9
+Abastecimentos | 06/02/2025 18:06:31 | Data(Horus): 28/01/2025 15:09:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 33,1 Totais Litros: 0,662 Encerrante Inicial: 6,9 Encerrante Final: 7,56
+Abastecimentos | 06/02/2025 18:06:41 | Data(Horus): 29/01/2025 09:29:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 17 Totais Litros: 0,34 Encerrante Inicial: 7,56 Encerrante Final: 7,9
+Abastecimentos | 06/02/2025 18:06:51 | Data(Horus): 29/01/2025 09:36:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 13,2 Totais Litros: 0,264 Encerrante Inicial: 7,9 Encerrante Final: 8,16
+Abastecimentos | 06/02/2025 18:07:01 | Data(Horus): 29/01/2025 09:37:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 74,2 Totais Litros: 1,484 Encerrante Inicial: 8,16 Encerrante Final: 9,65
+Abastecimentos | 06/02/2025 18:07:11 | Data(Horus): 29/01/2025 09:40:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 182,7 Totais Litros: 3,654 Encerrante Inicial: 9,65 Encerrante Final: 3,3
+Abastecimentos | 06/02/2025 18:07:21 | Data(Horus): 29/01/2025 09:52:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 71,5 Totais Litros: 1,43 Encerrante Inicial: 3,3 Encerrante Final: 4,73
+Abastecimentos | 06/02/2025 18:07:32 | Data(Horus): 29/01/2025 11:17:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 109 Totais Litros: 2,18 Encerrante Inicial: 4,73 Encerrante Final: 6,91
+Abastecimentos | 06/02/2025 18:07:41 | Data(Horus): 29/01/2025 11:20:00 Bico:  Frentista: 8598ECD5433213A8 Veículo: B328090918D1EA9F KMAtual: 0 Preço: 5 Preço Total: 23,4 Totais Litros: 0,468 Encerrante Inicial: 6,91 Encerrante Final: 7,38
+Abastecimentos | 06/02/2025 18:07:51 | Data(Horus): 31/01/2025 14:54:00 Bico:  Frentista: 0000000000000000 Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 0 Totais Litros: 0 Encerrante Inicial: 7,38 Encerrante Final: 6,17
+Abastecimentos | 06/02/2025 18:08:01 | Data(Horus): 03/02/2025 08:40:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 10,4 Totais Litros: 0,208 Encerrante Inicial: 6,17 Encerrante Final: 6,37
+Abastecimentos | 06/02/2025 18:08:14 | Data(Horus): 03/02/2025 08:46:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 39,9 Totais Litros: 0,798 Encerrante Inicial: 6,37 Encerrante Final: 7,17
+Abastecimentos | 06/02/2025 18:08:21 | Data(Horus): 03/02/2025 08:51:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 103,6 Totais Litros: 2,072 Encerrante Inicial: 7,17 Encerrante Final: 9,24
+Abastecimentos | 06/02/2025 18:08:31 | Data(Horus): 03/02/2025 08:55:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 31,6 Totais Litros: 0,632 Encerrante Inicial: 9,24 Encerrante Final: 9,88
+Abastecimentos | 06/02/2025 18:08:41 | Data(Horus): 03/02/2025 09:53:00 Bico:  Frentista: FFFFFFFFFFFFFFFF Veículo: 0000000000000000 KMAtual: 0 Preço: 5 Preço Total: 88,6 Totais Litros: 1,772 Encerrante Inicial: 9,88 Encerrante Final: 1,65
+Abastecimentos | 06/02/2025 18:08:51 | Data(Horus): 03/02/2025 13:52:00 Bico:  Frentista: 0000000000000000 Veículo: 0000000000000000 KMAtual: 0 Preço: 3,12 Preço Total: 3,68 Totais Litros: 0,118 Encerrante Inicial: 1,65 Encerrante Final: 3,15
